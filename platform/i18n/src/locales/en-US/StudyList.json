@@ -1,0 +1,19 @@
+{
+  "AccessionNumber": "AI诊断结果",
+  "ClearFilters": "清除过滤器",
+  "Description": "患者临床信息",
+  "Empty": "Empty",
+  "Instances": "术后病理结果",
+  "MRN": "F号",
+  "NumOfStudiesHiggerThan100Message": "Filter the list to 100 studies or less to enable sorting",
+  "Modality": "Modality",
+  "PatientName": "Patient Name",
+  "Previous": "< Back",
+  "Page": "页",
+  "Next": "Next >",
+  "ResultsPerPage": "每页显示结果",
+  "Studies": "Studies",
+  "StudyDate": "Study Date",
+  "StudyDescription": "Description",
+  "StudyList": "Study List"
+}
