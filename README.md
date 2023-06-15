@@ -9,6 +9,7 @@ provided by the <a href="https://ohif.org/">Open Health Imaging Foundation (OHIF
 
 <div align="center">
   <a href="https://docs.ohif.org/"><strong>Read The Docs</strong></a>
+  <a href="https://docs.ohif.org/"><strong>Test git</strong></a>
 </div>
 <div align="center">
   <a href="https://viewer.ohif.org/">Live Demo</a> |
